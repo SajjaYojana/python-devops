@@ -75,6 +75,15 @@ y=25
 res=x>y
 res1=x<y
 res2=x!=y
-print(res)
-print(res1)
-print(res2,a==b)
+res3=a==b
+print(res,res1,res2,res3)
+
+#Logical operators
+a=True
+b=False
+
+res= a and b
+res1= a or b
+res2= not a
+res3= not b
+print(res,res1,res2,res3)
