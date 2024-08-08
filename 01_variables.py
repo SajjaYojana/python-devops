@@ -64,3 +64,7 @@ print(i)
 x = "42"
 y = "43"
 print(a + b) #concatenation
+
+#Power
+a=10
+print(a**2)
