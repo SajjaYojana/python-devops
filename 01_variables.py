@@ -18,3 +18,19 @@ This is string3 or multi string
 #Override the value of a variable
 d = 'the weather is good'
 print(d)
+
+#list
+test_list = ["hello", "world", "Python"]
+print(test_list)
+
+#Tuple
+test_tuple = ("hello", "world", "Python")
+print(test_tuple)
+
+#Dict
+test_dict = {'a' : 1 , 'b' :2}
+print(test_dict)
+
+#Set
+test_set = {'a','b', "abc"}
+print(test_set)
