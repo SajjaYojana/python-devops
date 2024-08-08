@@ -56,3 +56,11 @@ f = 12
 g = 3
 h = f  / g
 print("remainder= ",h)
+#Modulo division
+i = f % g
+print(i)
+
+#Addition
+x = "42"
+y = "43"
+print(a + b) #concatenation
