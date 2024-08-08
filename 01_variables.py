@@ -77,4 +77,4 @@ res1=x<y
 res2=x!=y
 print(res)
 print(res1)
-print(res2)
+print(res2,a==b)
