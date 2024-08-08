@@ -37,3 +37,4 @@ print(test_set)
 
 # type() function --> returns the data type of a variable
 print(type(test_list))
+print(type(print))
