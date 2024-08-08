@@ -16,5 +16,5 @@ f = """
 This is string3 or multi string
 """
 #Override the value of a variable
-d = ' the weather is good'
+d = 'the weather is good'
 print(d)
