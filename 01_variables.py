@@ -44,7 +44,7 @@ print(type(print))
 a = 34
 b = 24.654
 c = a + b
-print("sum = " ,b)
+print("sum = " ,c)
 #substract
 d = a - b 
-print("sub = " ,b)
+print("sub = " ,d)
