@@ -34,3 +34,6 @@ print(test_dict)
 #Set
 test_set = {'a','b', "abc"}
 print(test_set)
+
+# type() function --> returns the data type of a variable
+print(type(test_list))
