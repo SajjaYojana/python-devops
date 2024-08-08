@@ -68,3 +68,13 @@ print(a + b) #concatenation
 #Power
 a=10
 print(a**2)
+
+#Comparision Operators
+x=15
+y=25
+res=x>y
+res1=x<y
+res2=x!=y
+print(res)
+print(res1)
+print(res2)
