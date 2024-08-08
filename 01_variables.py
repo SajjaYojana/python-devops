@@ -48,3 +48,11 @@ print("sum = " ,c)
 #substract
 d = a - b 
 print("sub = " ,d)
+#Multiply
+e = a * b
+print("multiply=" ,e)
+#division
+f = 12
+g = 3
+h = f  / g
+print("remainder= ",h)
