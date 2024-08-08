@@ -38,3 +38,13 @@ print(test_set)
 # type() function --> returns the data type of a variable
 print(type(test_list))
 print(type(print))
+
+#operators
+#1.add
+a = 34
+b = 24.654
+c = a + b
+print("sum = " ,b)
+#substract
+d = a - b 
+print("sub = " ,b)
