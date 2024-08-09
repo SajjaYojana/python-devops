@@ -21,6 +21,11 @@ print(sub_str)
 sub_str = sample_str[::2]
 print(sub_str)
 
+# REverse a string
 sub_str = sample_str[::-1]
-print(sub_str)
+print("Reversed String:", sub_str)
+
+#Length of a string
+len_str = len(sample_str)
+print("Length of a string:", len_str)
 
